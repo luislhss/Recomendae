@@ -18,6 +18,12 @@
 	<li>JavaScript</li>
 </ul>
 
+<h2>Requisitos Funcionais </h2>
+<ul>
+	<li>[HTML5](https://docs.google.com/document/d/14dq395LkvCFp4O20p0Qh1_O01iAyVg0NOhdwmdO9yKg/edit?usp=sharing)</li>
+
+</ul>
+
 <h2>Como usar</h2>
 <p>Para utilizar o projeto, basta</p>
 <pre>git clone git </pre>
@@ -36,7 +42,7 @@
 <p>Este projeto foi desenvolvido por:</p>
 <p>Thiago Coutinho Sousa Silva</p>
 <p>membro</p>
-<p>membro</p>
+<p>Luiz Henrique Santos da Silva</p>
 <p>membro</p>
 <p>membro</p>
 
