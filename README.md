@@ -4,18 +4,20 @@
 <h2>Funcionalidades</h2>
 <ul>
 	<li>Registro de usuários (leitores e editoras)</li>
-	<li>Publicação de livros por editoras</li>
-	<li>Avaliação de livros pelos leitores</li>
+	<li>Publicação de livros por editoras ou autores independentes</li>
+	<li>Avaliação de livros pelos leitores</li> <!-- editoras não podem avaliar os livros -->
 	<li>Visualização de livros, avaliações e marketplaces disponíveis</li>
 	<li>Listagem de livros lidos pelo usuário logado</li>
 	<li>Sugestões de leitura baseadas nos livros lidos pelo usuário</li>
 </ul>
 
-<h2>Requisitos Técnicos</h2>
+<h2>Tecnologias Utilizadas</h2>
 <ul>
 	<li>HTML5</li>
 	<li>CSS3</li>
 	<li>JavaScript</li>
+	<li>Python</li>
+
 </ul>
 
 <h2>Como usar</h2>
@@ -34,11 +36,11 @@
 
 <h2>Autor</h2>
 <p>Este projeto foi desenvolvido por:</p>
+<p>Bruno Fortunato Castro</p>
+<p>Jonathan Bispo dos Santos</p>
+<p>Luiz Henrique Santos da Silva</p>
 <p>Thiago Coutinho Sousa Silva</p>
-<p>membro</p>
-<p>membro</p>
-<p>membro</p>
-<p>membro</p>
+<p>Yuri Cardoso Vasconcelos</p>
 
 <h2>Licença</h2>
 <p>Este projeto é licenciado sob a licença [licença x].</p>
