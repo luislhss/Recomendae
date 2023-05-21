@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "recomendae-core"
+version = "0.0.1"
+description = ""
+authors = ["Jonathan Bispo <jonathanbispo.pessoal@gmail.com>"]
+readme = "README.md"
+packages = [{include = "recomendae_core"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sqlalchemy = "^2.0.15"
+fastapi = "^0.95.2"
+uvicorn = "^0.22.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
