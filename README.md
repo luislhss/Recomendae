@@ -1,7 +1,7 @@
 <h1>Site de Livros</h1>
 <p>Este é um projeto de site de livros onde usuários podem publicar e avaliar livros. O projeto foi desenvolvido com HTML, CSS e JavaScript.</p>
 
-<h2>Funcionalidades</h2>
+<h2>Funcionalidades principais</h2>
 <ul>
 	<li>Registro de usuários (leitores e editoras)</li>
 	<li>Publicação de livros por editoras ou autores independentes</li>
@@ -12,14 +12,19 @@
 </ul>
 
 <h2>Tecnologias Utilizadas</h2>
+<p>Para o desenvolvimento:</p>
 <ul>
-	<li>HTML5</li>
-	<li>CSS3</li>
-	<li>JavaScript</li>
+	<li>React</li>
 	<li>Python</li>
-
+	<li>Docker</li>
+	<li>PostgreSQL</li>
 </ul>
 
+<p>Para comunicação:</p>
+<ul>
+	<li>[WhatsApp](https://chat.whatsapp.com/BZP7fZ4mvKDJmaSvQoYU9t)</li>
+	<li>[Discord](https://discord.gg/7udjhkrTcd)</li>
+</ul>
 <h2>Como usar</h2>
 <p>Para utilizar o projeto, basta</p>
 <pre>git clone git </pre>
@@ -36,11 +41,14 @@
 
 <h2>Autor</h2>
 <p>Este projeto foi desenvolvido por:</p>
-<p>Bruno Fortunato Castro</p>
-<p>Jonathan Bispo dos Santos</p>
-<p>Luiz Henrique Santos da Silva</p>
-<p>Thiago Coutinho Sousa Silva</p>
-<p>Yuri Cardoso Vasconcelos</p>
+<p>Bruno Fortunato Castro (Project Manager)</p>
+<p>Jonathan Bispo dos Santos (Tech Lead)</p>
+<p>Luiz Henrique Santos da Silva (Programador)</p>
+<p>Thiago Coutinho Sousa Silva (Quality Assurance)</p>
+<p>Yuri Cardoso Vasconcelos (Programador)</p>
+
+<h2>Encontros</h2>
+<p>Todas quartas e sabádos durante a tarde.</p>
 
 <h2>Licença</h2>
-<p>Este projeto é licenciado sob a licença [licença x].</p>
+<p>Este projeto é licenciado sob a licença GPL.</p>
