@@ -16,6 +16,7 @@
 <ul>
 	<li>React</li>
 	<li>Python</li>
+	<li>FastAPI</li>
 	<li>Docker</li>
 	<li>PostgreSQL</li>
 </ul>
